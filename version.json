@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/zwmhua2-lab2/dsh-mobile/releases/latest/download/DSH-Mobile-v1.3.apk",
-  "note": "新增关于页、DeepSeek 余额查询、自动更新"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/zwmhua2-lab2/dsh-mobile/releases/latest/download/DSH-Mobile-v1.4.apk",
+  "note": "修复扫码：自动对焦 + 旋转/反色多形态识别"
 }
